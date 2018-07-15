@@ -1,0 +1,22 @@
+
+/*
+Theme Name: Newspaper Child
+Theme URI: http://www2.intoposts.com
+Description: This is a child theme of Newspaper
+Author: Merav
+Template: Newspaper
+*/
+
+@import Url("http://www2.intoposts.com/wp-content/themes/Newspaper/style.css");
+
+body.td-animation-stack-type0 .td-animation-stack .entry-thumb, body.td-animation-stack-type0 .post img { opacity: 1; }
+
+.block-title > span, .block-title > a, .block-title > label, .widgettitle { padding-left: 0 !important; background-color: transparent !important; color: #fff !important;}
+
+.block-title.td-block-title { border: none; }
+
+.sf-menu > li > a { padding: 0 10px; }
+
+.td-post-content li {line-height: inherit !important; }
+
+.widget-areas li {list-style: none;}
